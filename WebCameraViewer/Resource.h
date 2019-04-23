@@ -5,6 +5,8 @@
 #define IDR_MAINFRAME					128
 #define IDD_WEBCAMERAVIEWER_DIALOG				102
 
+#define IDC_STATIC_WINDOW_DIRECTSHOW_TO_PAINT 1050
+
 // Next default values for new objects
 //
 #ifdef APSTUDIO_INVOKED
