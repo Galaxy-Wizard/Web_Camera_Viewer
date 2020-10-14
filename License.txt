@@ -5,8 +5,8 @@
 4) Selling developed versions by 'Shipov Sergey', by 'Diagnostic Centers'.
 
 Disalowed:
-1) Comertial usage,
-2) Hacking,
+1) Comertial usage.
+2) Hacking.
 3) Change existing catalogs structure.
 
 Note:
